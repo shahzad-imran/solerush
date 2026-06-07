@@ -28,8 +28,8 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: MapPin, title: 'Flagship Store', value: '123 Street Sneaker, Sneaker City, NY 10001' },
-    { icon: Phone, title: 'Hotline Contact', value: '+1 (555) 123-4567' },
+    { icon: MapPin, title: 'Flagship Store', value: 'University of Lahore, Pakistan' },
+    { icon: Phone, title: 'Hotline Contact', value: '+92 308 8837679' },
     { icon: Mail, title: 'Support Email', value: 'support@solerush.com' }
   ];
 
